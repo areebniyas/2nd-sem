@@ -1,0 +1,14 @@
+Use case diagram and context diagram go hand in hand
+
+Context diagram - system as bubble
+
+Group most developers together in stakeholder diagram
+-----------------------
+
+Brainstorming
+
+Criteria Findings
+
+-----------------------
+
+Evidence for selc evaluation should be presented in appendix
