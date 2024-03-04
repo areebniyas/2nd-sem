@@ -1,0 +1,19 @@
+auto eth0
+iface eth0 inet static
+address 192.168.56.101
+netmask 255.255.255.0
+
+sudo nano /etc/network/interfaces
+
+attack - how to prevent exposed ip for your website- DDOS attacks
+prevention - limit requests
+
+
+attack - domain -> go to sub domain. Then access root.
+prevention - hide sub domain. authentication.
+
+DNS
+What can you do with DNS - DNS poisoning
+prevention - encryption - encrypted dns provider
+
+emails - spam with hundres and get atleast 2-3 victims.
