@@ -18,3 +18,9 @@ What can you do with DNS - DNS poisoning
 prevention - encryption - encrypted dns provider
 
 emails - spam with hundres and get atleast 2-3 victims.
+
+
+smurf attacks - flood your website
+
+prevention - port security (closing unnecessary ports)
+           - IP filtering 
