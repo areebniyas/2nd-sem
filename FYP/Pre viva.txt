@@ -1,0 +1,49 @@
+Main -> Contribution
+
+
+Questions:
+
+Why is your solution better than currently existing solutions?
+- research on similar approaches
+- benchmarks
+
+Why did you use this particular approach of ML/DL?
+- compare to other approaches (my model A captures info a, b, c better than model X or Y .. etc)
+- limitations in other approaches tackled in your solution
+
+VALIDITY (this is where mine got a bit case i think)
+- The solution you're addressing, is it really necessary?
+- Domain specific validity, is it applicable.
+- How can a person use it? And how it be different?
+
+Code
+- Layers of the model, why did you settle with these layers or this model?
+- Does it capture necessary meaning/context required for the solution you want to give.
+
+Domain Specific
+- Depending on your domain, if you have told to achieve a particular feature. Is it a valid feature required? or extra.
+
+- Here prepare for some domain stuff. Problem domain -> is it solved?
+
+----------------------------------------------------------------------------------------------------
+Prep for Viva:
+NLP - code approach
+preprocessing
+
+embedding - 
+represent categorical data as vectors
+which helps capture semantics
+
+
+tokenization
+- large text is broken down into sequences
+- break down into tokens 
+
+- the model expects standard data in same input shape and length
+- it helps standardize the input
+
+one hot encoding
+- to represent categorical variables into a binary matrix
+- models predict numbers not meaning.
+
+model structure each layer
